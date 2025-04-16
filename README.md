@@ -85,16 +85,6 @@ Content-Type: application/json
   "description": "test key"
 }
 
-
-
-⸻
-
-ライセンス
-
-MIT License
-
-⸻
-
 コントリビューションについて
 
 アイデア・不具合報告・改善提案など歓迎しています。
